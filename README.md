@@ -1,5 +1,5 @@
 
-## Requirements
+## Dependencies 
 
 ```
 pip install pip install jupyterlab
@@ -7,15 +7,21 @@ pip install langchain
 pip install openai
 pip install python-dotenv
 ```
+
+##  Requirements
 - OpenAI APIkey
 - Zapier Natural Language API Key
 - Zapier NLA Project ID (create a demo task in their UI according to website instructions listed below in resources)
 
-## RUN 
-cd into `zapier-langchain/quickstart` and run
-```jupyterlab```
 
-then edit the agent.task and run all cells in `ZapierLangchain.ipynb`
+## RUN 
+1. clone repo
+2. cd into `zapier-langchain/quickstart` 
+3. add `.env` file with your OpenAI and Zapier API keys
+4. run
+```jupyterlab```
+5. Setup your Zapier NLA project in the Zapier NLA UI
+6. Edit the agent.task and run all cells in `ZapierLangchain.ipynb`
 
 ## Resources
 
