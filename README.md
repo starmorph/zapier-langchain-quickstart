@@ -30,3 +30,4 @@ pip install python-dotenv
 - OpenAI API Keys https://platform.openai.com/account/api-keys
 - Zapier NLA Docs https://nla.zapier.com/api/v1/dynamic/docs
 - Zapier NLA Get Started https://nla.zapier.com/get-started/
+- Zapier API signup https://zapier.com/l/natural-language-actions
