@@ -19,7 +19,7 @@ pip install python-dotenv
 2. cd into `zapier-langchain/quickstart` 
 3. add `.env` file with your OpenAI and Zapier API keys
 4. run
-```jupyterlab``` in terminal
+```jupyter-lab``` in terminal
 5. Setup your Zapier NLA project in the Zapier NLA UI
 6. Edit the agent.task and run all cells in `ZapierLangchain.ipynb`
 
